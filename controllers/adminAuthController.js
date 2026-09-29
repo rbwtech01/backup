@@ -79,7 +79,7 @@ const login = async (req, res) => {
 
     return res.status(500).json({
       success: false,
-      message: "Internal server error please try again."
+      message: "Internal server error please try again all  the best."
     });
   }
 };
